@@ -1,0 +1,19 @@
+body {
+    background-color: #FEF4E8;
+}
+
+h2 {
+    color: #342C21;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+div{
+    font-family: "Gill Sans", sans-serif;
+    color: #342C21;
+}
+
+button {
+    height: 55px;
+    width: 55px;
+}

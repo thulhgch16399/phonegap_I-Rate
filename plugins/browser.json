@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "thulh.phonegap.feedback"
+        }
+    }
+}
